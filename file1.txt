@@ -1,0 +1,9 @@
+this is the code to generate 
+public static void main() {
+if (start){
+print("DO");
+}
+else {
+print("get ready to start")
+}
+}
